@@ -6,8 +6,18 @@
 
           
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Joao-Noce&theme=radical&mode=weekly&cache-buster=12345" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Joao-Noce&show_icons=true&theme=radical&layout=compact&cache-buster=12345" />
+<!-- <img width=40% align="center" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=Joao-Noce&show_icons=true&theme=radical&layout=compact&cache-buster=12345" /> -->
+<!-- <table width="900px"> -->
+<!--    <tr> -->
+      <td valign="top" width="50%">
+              <img width=50% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=Joao-Noce&theme=radical&mode=weekly&cache-buster=12345" />
+<!--          <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api?username=Joao-Noce&theme=radical&include_all_commits=true&show_icons=true" /> -->
+      </td>
+      <td valign="top" width="30%">
+        <img align="center" style="height=200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Noce&hide_progress=false&theme=radical&langs_count=16" />
+      </td>
+<!--    </tr> -->
+<!-- </table> -->
  </div>
  
  &nbsp;
